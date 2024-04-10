@@ -1,0 +1,14 @@
+.image {
+    border-radius: 20px;
+}
+
+.my-name {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 5px;
+}
+
+.weight {
+    font-weight: 350;
+}
